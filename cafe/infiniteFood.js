@@ -16,5 +16,5 @@
                 reactHandler().stateNode.forceUpdate();
 
                 alert('Added infinite food level!');
-            }
+            };
 })();
