@@ -1,3 +1,5 @@
+//This command may not work depending on your devices React version
+
 (() => {
     let n = document.createElement('iframe');
     document.body.append(n);
