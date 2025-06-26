@@ -1,2 +1,3 @@
-No edits will be made
-Forked version
+I would appreciate feature requests
+Message raiyanseedat@gmail.com
+Forked version from therealgliz
