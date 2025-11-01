@@ -1,0 +1,10 @@
+// Bypass Blooket's Factory Mode Protection (Unethical and Illegal)function bypassBlooketFactoryMode() {
+//Inject a malicious script into the page
+  const script = document.createElement('script');script.textContent =`// Disable factory mode restrictions
+    window.Blooket = {factoryMode: false};
+    // Allow all features and options
+    window.Blooket.allowedFeatures = ['all'];`;
+  document.body.appendChild(script);}
+
+// Call the function to activate the hack
+bypassBlooketFactoryMode();
